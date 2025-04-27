@@ -10,7 +10,7 @@ MTech CSE student at NIT Durgapur | Ex-Accenture | Passionate about building sca
 - 🛠️ Skilled in C, C++, Python, Java, SQL, and JavaScript (ReactJS, NodeJS)
 - 📡 Experienced with WebSocket, MQTT, TCP/IP protocols, and system design
 - 🤖 Built ML models and deployed them on microcontrollers using m2cgen and TensorFlow Lite Micro
-- 📚 Regularly practicing Data Structures and Algorithms on LeetCode and Codeforces
+- 📚 Regularly practicing Data Structures and Algorithms on LeetCode and GeeksForGeeks
 - 🌐 Exploring Distributed Systems, Networking, and Full-Stack Development
 
 ---
