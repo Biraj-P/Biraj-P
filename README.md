@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Biraj Paul
 
-🎯 **Software Engineer | Embedded Systems Enthusiast | Machine Learning Developer**  
+🎯 **Software Engineer | Embedded Software Enthusiast | Machine Learning Developer**  
 MTech CSE student at NIT Durgapur | Ex-Accenture | Passionate about building scalable systems, intelligent devices, and impactful ML solutions.
 
 ---
