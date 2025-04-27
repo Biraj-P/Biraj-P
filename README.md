@@ -6,7 +6,7 @@ MTech CSE student at NIT Durgapur | Ex-Accenture | Passionate about building sca
 ---
 
 ## 🚀 About Me
-- 🔥 Passionate about Embedded Systems, Real-Time Communication, and AI on Edge Devices
+- 🔥 Passionate about Embedded Software, Real-Time Communication, and AI on Edge Devices
 - 🛠️ Skilled in C, C++, Python, Java, SQL, and JavaScript (ReactJS, NodeJS)
 - 📡 Experienced with WebSocket, MQTT, TCP/IP protocols, and system design
 - 🤖 Built ML models and deployed them on microcontrollers using m2cgen and TensorFlow Lite Micro
