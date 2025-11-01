@@ -7,6 +7,7 @@ Check my portfolio- https://birajpaul.me
 ---
 
 ## 🚀 About Me
+- ✔️ Expert in Java Full Stack Development (Spring Boot)
 - 🔥 Passionate about Embedded Software, Real-Time Communication, and AI on Edge Devices
 - 🛠️ Skilled in C, C++, Python, Java, SQL, JavaScript (ReactJS, NodeJS) and Java Spring Framework
 - 📡 Experienced with WebSocket, MQTT, TCP/IP protocols, and system design
@@ -34,7 +35,6 @@ Check my portfolio- https://birajpaul.me
 - **Twitter Sentiment Analysis** – Built an NLP pipeline with Logistic Regression, SVM, and fine-tuned BERT.
 - **Breast Cancer Detection** – Achieved 96% accuracy using Random Forest and optimized feature selection.
 - **Digit Recognition using CNN** – Trained a lightweight CNN on MNIST dataset using PyTorch.
-
 > Check out my repositories pinned below for more!
 
 ---
