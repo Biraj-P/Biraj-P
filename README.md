@@ -40,9 +40,9 @@ Check my portfolio- https://birajpaul.me
 ---
 
 ## 📈 GitHub Stats
-![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biraj-P&show_icons=true&theme=tokyonight&hide=prs)
+[![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biraj-P&show_icons=true&theme=tokyonight&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biraj-P&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biraj-P&layout=compact)
 
 ---
 
