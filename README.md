@@ -3,7 +3,6 @@
 🎯 **Software Engineer | Embedded Software Enthusiast | Machine Learning Developer**  
 MTech CSE student at NIT Durgapur | Ex-Accenture | Passionate about building scalable systems, intelligent devices, and impactful ML solutions.
 
-Check my portfolio- https://birajpaul.me
 ---
 
 ## 🚀 About Me
