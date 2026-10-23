@@ -116,8 +116,7 @@ flowchart LR
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biraj-P&theme=tokyo-night&hide_border=true)](https://github.com/Biraj-P)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Biraj-P&theme=dracula)](https://github.com/Biraj-P/github-readme-activity-graph)
 </div>
 
 
