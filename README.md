@@ -116,9 +116,11 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biraj-P&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biraj-P&theme=tokyo-night&hide_border=true)](https://github.com/Biraj-P)
 
 </div>
+
+
 
 ## 🤝 Let's Connect
 
